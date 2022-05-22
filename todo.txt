@@ -1,0 +1,18 @@
+1. Add Projects  -->  Done
+  - Add GitHub link to Projects
+2. Add ACHIEVEMENTS  -->  Done
+3. Add CERTIFICATES
+4. Add College & 12th Details  -->  Done
+5. Add LinkdIn, Instagram link nelow image     --> Done
+
+
+1. Covid 19 Bad Vacancy Info
+2. BookBuzz
+3. Training & Placement Management
+4. Number Guessing Game
+5. To Do Web Application
+6. Weather App
+
+
+Add .gitignore file
+- put db inside gitignore
