@@ -574,6 +574,17 @@ body.offcanvas .colorlib-nav-toggle {
     /* border: 1px solid white; */
     padding-left: 0 !important;
   }
+  .about-desc .iam {
+    height: 75px;
+  }
+  .about-desc h1 {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-family: "Montserrat", Georgia, serif;
+  }
+  .about-desc .name-heading {
+    height: 70px;
+  }
 }
 
 .no-gutters {
@@ -2237,8 +2248,8 @@ span {
   font-family: "Montserrat", sans-serif;
   /* color: black; */
   display: inline-block; /* change the display type           */
-  margin: 1px 6px;
-  padding: 4px 1px;
+  margin: 0px 6px;
+  padding: 0px 0px;
 }
 
 .edu-badge {
@@ -2410,6 +2421,7 @@ footer ul {
   transition: all 0.4s ease;
 }
 
-.about-desc .iam {
-  height: 95px;
+.about-desc .name {
+  margin: 6px 0px;
+  padding: 3px 0px;
 }
