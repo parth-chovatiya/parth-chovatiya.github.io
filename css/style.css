@@ -2409,3 +2409,7 @@ footer ul {
   -o-transition: all 0.4s ease;
   transition: all 0.4s ease;
 }
+
+.about-desc .iam {
+  height: 95px;
+}
