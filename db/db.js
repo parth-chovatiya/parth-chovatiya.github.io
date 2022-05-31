@@ -34,6 +34,12 @@ export default {
       percentage: "70",
     },
     {
+      title: "Languages",
+      skillName: "Java, Python",
+      color: "6",
+      percentage: "70",
+    },
+    {
       title: "Frameworks/Libraries",
       skillName: "Reactjs, Nextjs",
       color: "6",
@@ -44,12 +50,6 @@ export default {
       skillName: "Nodejs, MongoDB",
       color: "2",
       percentage: "70",
-    },
-    {
-      title: "Clouds",
-      skillName: "AWS(EC2, S3), Heroku, Netlify",
-      color: "3",
-      percentage: "30",
     },
     {
       title: "Design",
@@ -67,11 +67,11 @@ export default {
   projects: {
     web: [
       {
-        projectName: "Covid 19 Bad Vacancy Info",
+        projectName: "Covid 19 Bed Vacancy Info",
         image: "images/covid.png",
         summary:
           "Developed a full-stack web application to find an empty bed for patients across any city.",
-        preview: "https://github.com/parth-chovatiya/Covid-19-Bad-Vacancy-info",
+        preview: "https://github.com/parth-chovatiya/Covid-19-Bed-Vacancy-info",
         techStack: [
           "PHP",
           "MySql",
@@ -282,7 +282,7 @@ export default {
       data: [
         {
           text: "Stackoverflow",
-          link: "https://stackoverflow.com/users/8461233/parth_chovatiya",
+          link: "https://stackoverflow.com/users/14073856/parth-chovatiya",
         },
         {
           text: "GitHub",
