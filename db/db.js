@@ -22,22 +22,10 @@ export default {
       percentage: "80",
     },
     {
-      title: "Languages",
-      skillName: "C, C++",
-      color: "1",
-      percentage: "75",
-    },
-    {
-      title: "Languages",
-      skillName: "JavaScipt, TypeScript",
-      color: "1",
-      percentage: "70",
-    },
-    {
-      title: "Languages",
-      skillName: "Java, Python",
-      color: "6",
-      percentage: "70",
+      title: "Backend",
+      skillName: "Nodejs, Expressjs",
+      color: "2",
+      percentage: "82",
     },
     {
       title: "Frameworks/Libraries",
@@ -46,11 +34,29 @@ export default {
       percentage: "75",
     },
     {
-      title: "Backend",
-      skillName: "Nodejs, MongoDB",
-      color: "2",
-      percentage: "70",
+      title: "Languages",
+      skillName: "JavaScript, TypeScript",
+      color: "1",
+      percentage: "85",
     },
+    {
+      title: "Database",
+      skillName: "MongoDB",
+      color: "2",
+      percentage: "78",
+    },
+    {
+      title: "Languages",
+      skillName: "Java, Python",
+      color: "6",
+      percentage: "73",
+    },
+    // {
+    //   title: "Languages",
+    //   skillName: "C, C++",
+    //   color: "1",
+    //   percentage: "75",
+    // },
     {
       title: "Design",
       skillName: "HTML, Bootstrap, SCSS",
@@ -61,7 +67,7 @@ export default {
       title: "Tools",
       skillName: "Postman, GitHub",
       color: "3",
-      percentage: "80",
+      percentage: "90",
     },
   ],
   projects: {
@@ -193,23 +199,19 @@ export default {
     ],
   },
   experience: [
-    // {
-    // 	title: "Biofourmis India Pvt. Ltd.",
-    // 	duration: "April 2022 - Present",
-    // 	subtitle: "Software Engineer",
-    // 	details: [
-    // 		"Remote Patient Monitoring System"
-    // 	],
-    // 	tags: [
-    // 		"JavaScript",
-    // 		"Angular",
-    // 		"React",
-    // 		"Bootstrap",
-    // 		"Nodejs",
-    // 		"Jenkins",
-    // 	],
-    // 	icon: "heartbeat",
-    // },
+    {
+      title: "SocialPilot Solutions LLP",
+      duration: "January 2023 - Present",
+      subtitle: "Fullstack Developer",
+      details: [
+        "Contributing to frontend and backend development to enhance and expand the existing product with new features.",
+        "Developing and enhancing RESTful APIs using NodeJS, KoaJS, and MongoDB, to meet specific business requirements.",
+        "Implementing responsive and intuitive user interfaces using ReactJS, ensuring a seamless user experience across devices.",
+        "Debugged and fixed bugs in the code, including issues related to performance, scalability, and user experience.",
+      ],
+      tags: ["JavaScript", "ReactJS", "NodeJS", "KoaJS", "MongoDB", "AWS"],
+      icon: "group",
+    },
     // {
     // 	title: "Novopay Solutions Pvt. Ltd.",
     // 	duration: "June 2020 - April 2022",
@@ -237,20 +239,22 @@ export default {
     // 		"Developed a customer Web Application from scratch for social media management.",
     // 	],
     // 	tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-    // 	icon: "group",
+    // 	icon: "heartbeat",
     // },
   ],
-	achievements: [
-		{
-			title: "grtjkgnkjf"
-		}
-	],
+  // TODO: Add achievements here
+  achievements: [
+    {
+      title: "grtjkgnkjf",
+    },
+  ],
   education: [
     {
       title: "Bachelors in Computer Engineering",
       duration: "",
       subtitle: "Birla Vishvakarma Mahavidyalaya Engineering College, Anand",
       details: [
+        "I graduated with a CPI of 8.42/10.",
         "Secured 1st rank in Code Crunch - CSI BVM College Coding Competition organized by BVM CSI.",
         "Active Competitive Programmer with CodeChef Rating 1820.",
       ],
